@@ -6,7 +6,7 @@ layout: doc
 > [!WARNING] 警告
 > 本页面内容已过时，请前往[VMDocs](https://docs.vmct-cn.top/tutorial/modpack/serverpack.html)查看。
 
-------
+---
 
 ## CurseForge整合包
 
