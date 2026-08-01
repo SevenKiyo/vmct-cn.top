@@ -3,6 +3,11 @@ title: 如何下载整合包的服务端文件
 layout: doc
 ---
 
+> [!WARNING] 警告
+> 本页面内容已过时，请前往[VMDocs](https://docs.vmct-cn.top/tutorial/modpack/serverpack.html)查看。
+
+------
+
 ## CurseForge整合包
 
 以下使用卓越2作为演示，其他在CurseForge发布的整合包类似

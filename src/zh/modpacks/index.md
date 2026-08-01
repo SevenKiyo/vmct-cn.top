@@ -3,6 +3,11 @@ layout: doc
 title: 整合包汉化补丁安装说明
 ---
 
+> [!WARNING] 警告
+> 本页面内容已过时，请前往[VMDocs](https://docs.vmct-cn.top/tutorial/modpack/translation.html)查看。
+
+------
+
 > [!TIP] 提示
 > 左侧侧边栏包含全部VM汉化组及组员个人汉化，其他整合包汉化请在[友情链接中](/friends-links#recommend)查看。
 
