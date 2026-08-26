@@ -10,7 +10,7 @@ showComment: false
 
 # 鼓励我们的开发
 
-請到 GitHub [點亮Star⭐](https://github.com/Wulian233/vmct-cn.top)非常感謝！
+請到 GitHub [點亮Star⭐](https://github.com/VM-Chinese-translate-group/vmct-website-v3)非常感謝！
 
 我們正在努力漢化，請耐心等待。
 
